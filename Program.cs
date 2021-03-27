@@ -18,14 +18,6 @@ namespace test
                 x = 8;
                 y = 10;
 
-                if (x - y > 0)
-                {
-                    x -= y;
-                }
-                else
-                {
-                    x = 0;
-                }
                
                 Console.WriteLine(x);
 
